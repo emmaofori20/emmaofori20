@@ -91,6 +91,5 @@
   </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmaofori20&show_icons=true&locale=en&layout=compact" alt="emmaofori20" /></p>
 
 

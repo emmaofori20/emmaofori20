@@ -11,11 +11,6 @@
   I am a dedicated full stack developer with a keen interest in building efficient and scalable web applications. With a solid foundation in both frontend and backend technologies, I enjoy tackling complex problems and transforming ideas into reality through code. My expertise spans a range of programming languages and tools, enabling me to deliver robust solutions that meet the evolving needs of users. Whether working on a team or independently, I am committed to continuous learning and staying updated with the latest industry trends.
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=emmaofori20" alt="emmaofori20" />
-  </a> 
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
